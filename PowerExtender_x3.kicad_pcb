@@ -5336,8 +5336,8 @@
 		(layer "Edge.Cuts")
 		(uuid "7d7a9f6c-5fc5-41af-a62e-213938ede380")
 	)
-	(gr_text "VIN module"
-		(at 91.027144 119.3 0)
+	(gr_text "PnP Power Module"
+		(at 87.538358 119.3 0)
 		(layer "F.SilkS")
 		(uuid "3cd1a8f9-0ab3-4af8-8d91-398823b4a1f0")
 		(effects
@@ -5349,8 +5349,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "VIN module"
-		(at 118.227144 119.3 0)
+	(gr_text "PnP Power Module"
+		(at 115.078358 119.3 0)
 		(layer "F.SilkS")
 		(uuid "e8b94431-d64f-4ca0-870e-596ef1197d24")
 		(effects
@@ -5362,8 +5362,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "VIN module"
-		(at 101.497357 113.2 180)
+	(gr_text "PnP Power Module"
+		(at 104.812642 113.2 180)
 		(layer "F.SilkS")
 		(uuid "614cec5a-b92b-4b01-aaaf-fdd4082664f4")
 		(effects
@@ -5375,8 +5375,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "VIN module"
-		(at 129.038357 113.2 180)
+	(gr_text "PnP Power Module"
+		(at 132.352642 113.2 180)
 		(layer "F.SilkS")
 		(uuid "df32f47f-8c1c-4181-8761-bc964b65d942")
 		(effects

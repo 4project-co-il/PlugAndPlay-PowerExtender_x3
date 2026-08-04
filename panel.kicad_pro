@@ -321,19 +321,19 @@
     "netclass_patterns": [
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-GND"
-      },
-      {
-        "netclass": "Board_0-Default",
         "pattern": "Board_0-VDC"
       },
       {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-GND"
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-GND"
       },
       {
         "netclass": "Board_1-Default",
         "pattern": "Board_1-VDC"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-GND"
       }
     ]
   },

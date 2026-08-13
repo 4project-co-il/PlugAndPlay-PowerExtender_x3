@@ -329,11 +329,11 @@
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-VDC"
+        "pattern": "Board_1-GND"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-GND"
+        "pattern": "Board_1-VDC"
       }
     ]
   },
